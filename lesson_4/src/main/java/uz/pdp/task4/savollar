@@ -1,0 +1,5 @@
+Runnable return type void metod nomi run();
+Callable return type <V> metod nomi call();
+
+Compile timeda type aniqlanib yoziladi huddi var qilib yozganimizda
+compile qiymatga qarab type ni aniqlagani kabi!
